@@ -20,7 +20,7 @@ To uninstall bluetheme
 2. Restore the original desktop.py in erpnext and frappe config folders
 
 
-# Troubleshoot Tips (not sure if it will work, but it worked for me)
+### Troubleshoot Tips (not sure if it will work, but it worked for me)
 If the installation of bluetheme doesn't work, or any error pops up, try 'get-app' again. If the error still persists,try the below. I'm not sure if it will work 100%, but it worked for me. 
 
 1. Get another theme (i used "bench get-app https://github.com/vinhnguyent090/bdtheme")
