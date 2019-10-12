@@ -2,6 +2,8 @@
 
 Custom Theme for ERPNext v12 on the new Desk 2.0
 
+![alt text](https://discuss.erpnext.com/uploads/default/optimized/3X/c/f/cfb27faec381f31a05a4daadfda1361682af1804_1_628x500.png)
+
 To install bluetheme,
 
 1. bench get-app https://github.com/hashirluv/bluetheme.git
