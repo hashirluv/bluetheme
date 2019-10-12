@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include bluetheme *.css
+recursive-include bluetheme *.csv
+recursive-include bluetheme *.html
+recursive-include bluetheme *.ico
+recursive-include bluetheme *.js
+recursive-include bluetheme *.json
+recursive-include bluetheme *.md
+recursive-include bluetheme *.png
+recursive-include bluetheme *.py
+recursive-include bluetheme *.svg
+recursive-include bluetheme *.txt
+recursive-exclude bluetheme *.pyc
