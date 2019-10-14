@@ -15,6 +15,8 @@
 	color: #cccccc;}
 .navbar-form .awesomplete {width: 400px;}
 .navbar {min-height: 46px;}
+.navbar .navbar-home { padding-top: 13px;}
+.navbar .navbar-home img {width: 24px !important;}
 .navbar-light{background-color: #1a3f77 !important;}
 .navbar-light .navbar-nav .nav-link{color: #ffffff;}
 .navbar-light .navbar-nav .nav-link:hover{color:#c7c7c7}
