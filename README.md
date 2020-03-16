@@ -29,6 +29,10 @@ If the installation of bluetheme doesn't work, or any error pops up, try 'get-ap
 2. Install it and uninstall it
 3. Install bluetheme
 
+### Fix Big Logo
+I have used a logo with 120px width for my use. If you are using the default E logo, go to 
+/bluetheme/public/css/bluetheme.css and delete line 4 which says ".app-logo {width: 120px !important;}"
+
 ** Please check the codes and help me refine it, in case the way i did the changes are not correct.
 
 #### License
